@@ -1,1 +1,1 @@
-](https://dj69ss.github.io/)
+dj69ss.github.io
