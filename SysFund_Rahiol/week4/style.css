@@ -1,0 +1,27 @@
+.box1{
+    background-color: blueviolet;
+}
+
+.box2{
+     background-color: pink;
+}
+
+ .box3{
+     background-color:darkgreen;
+}
+
+.box4{
+    background-color: darkgoldenrod;
+}
+
+.box5{
+    background-color:rgb(0, 93, 100);
+}
+
+.box6{
+   background-color: rgb(61, 48, 13);
+}
+
+.box7{
+    background-color: rgba(87, 129, 8, 0.452);
+ }
